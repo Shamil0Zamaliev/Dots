@@ -1,0 +1,15 @@
+G:\Study\Code_projects_1course\Dots\bin\Debug\net6.0\Dots.exe
+G:\Study\Code_projects_1course\Dots\bin\Debug\net6.0\Dots.deps.json
+G:\Study\Code_projects_1course\Dots\bin\Debug\net6.0\Dots.runtimeconfig.json
+G:\Study\Code_projects_1course\Dots\bin\Debug\net6.0\Dots.dll
+G:\Study\Code_projects_1course\Dots\bin\Debug\net6.0\Dots.pdb
+G:\Study\Code_projects_1course\Dots\obj\Debug\net6.0\Dots.csproj.AssemblyReference.cache
+G:\Study\Code_projects_1course\Dots\obj\Debug\net6.0\Dots.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\Code_projects_1course\Dots\obj\Debug\net6.0\Dots.AssemblyInfoInputs.cache
+G:\Study\Code_projects_1course\Dots\obj\Debug\net6.0\Dots.AssemblyInfo.cs
+G:\Study\Code_projects_1course\Dots\obj\Debug\net6.0\Dots.csproj.CoreCompileInputs.cache
+G:\Study\Code_projects_1course\Dots\obj\Debug\net6.0\Dots.dll
+G:\Study\Code_projects_1course\Dots\obj\Debug\net6.0\refint\Dots.dll
+G:\Study\Code_projects_1course\Dots\obj\Debug\net6.0\Dots.pdb
+G:\Study\Code_projects_1course\Dots\obj\Debug\net6.0\Dots.genruntimeconfig.cache
+G:\Study\Code_projects_1course\Dots\obj\Debug\net6.0\ref\Dots.dll
